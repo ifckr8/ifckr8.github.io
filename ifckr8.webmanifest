@@ -1,0 +1,20 @@
+{
+	"name":"8.ifckr.com",
+	"short_name":"ifckr &infin;",
+	"start_url":"/index.html",
+	"permissions":["cookies","storage"],
+	"description":"html css js",
+	"display":"standalone",
+	"orientation":"portrait",
+	"theme_color":"#CCC",
+	"background_color":"#333",
+	"icons":[{
+		"src":"/images/ifckr8.450.gif",
+		"type":"image/gif",
+		"sizes":"450x450"
+	},{
+		"src":"/images/ifckr8.1080.gif",
+		"type":"image/gif",
+		"sizes":"1080x1080"
+	}]
+}
